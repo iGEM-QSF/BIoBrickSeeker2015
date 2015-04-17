@@ -1,4 +1,4 @@
 'use strict';
 
 angular
-  .module('iGemPlates2014App', ['ui.utils']);
+  .module('iGemPlates2015App', ['ui.utils']);
