@@ -24,6 +24,8 @@
     "Well":" 1C",
     "Part":"BBa_K398326",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"#1 - 520 ng",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -35,6 +37,8 @@
     "Well":" 1D",
     "Part":"BBa_K731722",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"I was not able to remove this line from the list. It is the same sample as #21",
     "Type":" Terminator",
     "Subparts":" 1",
@@ -46,6 +50,8 @@
     "Well":" 1E",
     "Part":"BBa_K398331",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"#2 - 990 ng",
     "Type":" Measurement",
     "Subparts":" 5",
@@ -57,6 +63,8 @@
     "Well":" 1F",
     "Part":"BBa_K808025",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"may be toxic for gramm negativ bacteria due to lipase activity if its expressed into perplasma or surface expressed",
     "Type":" Coding",
     "Subparts":" 1",
@@ -148,6 +156,8 @@
     "Well":" 1O",
     "Part":"BBa_K346002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"PmerT promoter",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -181,6 +191,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Red Firefly Luciferase and LRE<BR><i>L. Cruciata<BR>(E. coli optimised)</i>"
   },
   {
@@ -200,6 +211,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Red Firefly Luciferase and LRE (under pBAD)<BR><i>L. Cruciata<BR>(E. coli optimised)</i>"
   },
   {
@@ -219,6 +231,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"EPIC Firefly Luciferase (under pBAD)<BR><i>P. Pyralis<BR>(E. coli optimised)</i>"
   },
   {
@@ -238,6 +251,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Green Firefly Luciferase and LRE (under pBAD)<BR><i>L. Cruciata<BR>(E. coli optimised)</i>"
   },
   {
@@ -257,6 +271,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Yellow Firefly Luciferase (under pBAD)<BR><i>L. Cruciata<BR>(E. coli optimised)</i>"
   },
   {
@@ -276,6 +291,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"luxEG <BR><i>V. Fischeri<BR>(E. coli optimised)</i>"
   },
   {
@@ -295,6 +311,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 14",
+    "Source":" ",
     "Description":"B.subtilis transformation vector with LacI"
   },
   {
@@ -314,6 +331,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 18",
+    "Source":" ",
     "Description":"pLux-Lac:GFP:Term:Term:PluxR/cI-OR :mCherry:Term:PtetR:LuxR:Term:Plux/cI-OR:LuxI  "
   },
   {
@@ -321,6 +339,8 @@
     "Well":" 3A",
     "Part":"BBa_K346004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"RBS(B0034)_MBP(lead metal binding peptide egineered from MerR)+Terminator(B0015)",
     "Type":" Translational_Unit",
     "Subparts":" 1",
@@ -494,6 +514,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Nitrate reporter: PyeaR - GFP composite"
   },
   {
@@ -513,6 +534,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Lac induced expression cassette"
   },
   {
@@ -530,9 +552,12 @@
     "Well":" 4F",
     "Part":"BBa_K346000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"RBS(B0032)+T3 RNA polymerase",
     "Type":" Translational_Unit",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS(B0032)+T3 DNA-directed RNA polymerase"
   },
   {
@@ -552,6 +577,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Apple fragrance  generator "
   },
   {
@@ -571,6 +597,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Orange Firefly Luciferase (under pBAD)<BR><i>L. Cruciata<BR>(E. coli optimised)</i>"
   },
   {
@@ -590,6 +617,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Lux Operon (under pBAD)<BR><i>Vibrio Fischeri</i>"
   },
   {
@@ -609,6 +637,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"EPIC Firefly Luciferase and LRE <BR><i>P. Pyralis<BR>(E. coli optimised)</i>"
   },
   {
@@ -628,6 +657,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS + malS (E. coli periplasmic &#945;-amylase)"
   },
   {
@@ -705,6 +735,8 @@
     "Well":" 5H",
     "Part":"BBa_K934012",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"PlasI-LuxI",
     "Type":" Composite",
     "Subparts":" 3",
@@ -726,6 +758,8 @@
     "Well":" 5J",
     "Part":"BBa_K934022",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Plux-LasI",
     "Type":" Composite",
     "Subparts":" 4",
@@ -747,6 +781,8 @@
     "Well":" 5L",
     "Part":"BBa_K934026",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Plux-LacI",
     "Type":" Composite",
     "Subparts":" 5",
@@ -810,6 +846,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS + bglX (E. coli perisplasmic &#946;-glucosidase)"
   },
   {
@@ -829,6 +866,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"malS for BioSandwich"
   },
   {
@@ -848,6 +886,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"bglX for BioSandwich"
   },
   {
@@ -867,6 +906,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Plac + LacZ + malS"
   },
   {
@@ -886,6 +926,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"RBS + Cpn60"
   },
   {
@@ -905,6 +946,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"DNA ligase from Escherichia coli (LigA) with PT7  RBS and His-tag"
   },
   {
@@ -924,6 +966,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"(correct) temperature sensitive promoter"
   },
   {
@@ -943,6 +986,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"promoter and RBS of E. coli chitoporin translationally fused with lacZ."
   },
   {
@@ -1090,6 +1134,8 @@
     "Well":" 7O",
     "Part":"BBa_K545666",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"name =4 . rpos ",
     "Type":" RBS",
     "Subparts":" 1",
@@ -1123,6 +1169,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Upstream mutated chitoporin part fused with lacZ "
   },
   {
@@ -1142,6 +1189,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"IAA biosynthetic genes under control of the Pveg2 promoter"
   },
   {
@@ -1161,6 +1209,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"J23100 promoter - PA2652"
   },
   {
@@ -1180,6 +1229,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Plac + INP-EYFP"
   },
   {
@@ -1199,6 +1249,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Plac + LacZ + bglX"
   },
   {
@@ -1218,6 +1269,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Plac + RBS + cenA (endoglucanase)"
   },
   {
@@ -1225,6 +1277,8 @@
     "Well":" 8M",
     "Part":"BBa_K617003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"This is the R6K origin of replication part, I have had the sequence confirmed by ACGT INC. with primers VF2 and VR, a gel pic is shown on our wiki/registry page.",
     "Type":" DNA",
     "Subparts":" 1",
@@ -1238,6 +1292,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Plac + INP-bglX"
   },
   {
@@ -1245,6 +1300,8 @@
     "Well":" 8O",
     "Part":"BBa_K617004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"This is Lambda attP P'OP, it has been sequenced by ACGT INC. with VF2 and VR primers, a gel picture (E+P digest) is on our registry/wiki page",
     "Type":" DNA",
     "Subparts":" 1",
@@ -1258,6 +1315,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PlacLacZ + crtEIB"
   },
   {
@@ -1265,6 +1323,8 @@
     "Well":" 9A",
     "Part":"BBa_S04602",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"name =7 . RBS CinR sequencing in process ",
     "Type":" Translational_Unit",
     "Subparts":" 2",
@@ -1286,6 +1346,8 @@
     "Well":" 9C",
     "Part":"BBa_S04607",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"name =16 . pLac-CinR  sequencing in progress",
     "Type":" Intermediate",
     "Subparts":" 2",
@@ -1327,6 +1389,8 @@
     "Well":" 9G",
     "Part":"BBa_K516011",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: E3)",
     "Type":" Translational_Unit",
     "Subparts":" 2",
@@ -1348,6 +1412,8 @@
     "Well":" 9I",
     "Part":"BBa_K516030",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: E5)",
     "Type":" Reporter",
     "Subparts":" 4",
@@ -1369,6 +1435,8 @@
     "Well":" 9K",
     "Part":"BBa_K516031",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: E6)",
     "Type":" Reporter",
     "Subparts":" 4",
@@ -1390,6 +1458,8 @@
     "Well":" 9M",
     "Part":"BBa_K516032",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: E7)",
     "Type":" Reporter",
     "Subparts":" 4",
@@ -1411,6 +1481,8 @@
     "Well":" 9O",
     "Part":"BBa_K516022",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: E11)",
     "Type":" Device",
     "Subparts":" 4",
@@ -1444,6 +1516,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PlacLacZ + EYFP"
   },
   {
@@ -1463,6 +1536,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"Optogenetical AND-Gate blue light - without first promoter - choose your first input"
   },
   {
@@ -1482,6 +1556,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"rrnB P1-LacI-pLac-mCherry plausible stress sensor"
   },
   {
@@ -1501,6 +1576,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"T7 polymerase expression casette for Bacillus Subtilis"
   },
   {
@@ -1520,6 +1596,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Fusion part of pBAD arabinose-inducible induction system and the HRV 14_3C protease"
   },
   {
@@ -1539,6 +1616,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"Optogenetical AND-Gate red/blue light"
   },
   {
@@ -1558,6 +1636,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"B0034-YF1-B0034-FixJ  blue light sensor and RR with RBS "
   },
   {
@@ -1577,6 +1656,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034-cph8"
   },
   {
@@ -1584,6 +1664,8 @@
     "Well":" 11A",
     "Part":"BBa_K516132",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"(wiki name: J101-E7)",
     "Type":" Measurement",
     "Subparts":" 5",
@@ -1757,6 +1839,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"PFixK2-lambda C1-B0034-amilCP blue light sensor output"
   },
   {
@@ -1776,6 +1859,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Lux pL controlled LuxR with lux pR autoinducing LuxI(lva tag)- AHL."
   },
   {
@@ -1795,6 +1879,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Lux pL controlled luxR with lux pR controlled AHL degrading enzyme AiiA(lva tag). "
   },
   {
@@ -1814,6 +1899,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P_rffGH.rbs.ToxR-Nhe1.{gsgsgs}{LambdaRep}"
   },
   {
@@ -1833,6 +1919,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"alpha-pinene synthase"
   },
   {
@@ -1852,6 +1939,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"beta-pinene synthase "
   },
   {
@@ -1989,6 +2077,8 @@
     "Well":" 13J",
     "Part":"BBa_K741003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"More than 1 ug in the tube.",
     "Type":" Generator",
     "Subparts":" 5",
@@ -2010,6 +2100,8 @@
     "Well":" 13L",
     "Part":"BBa_K741006",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"More than 1 ug in the tube.",
     "Type":" Translational_Unit",
     "Subparts":" 4",
@@ -2113,6 +2205,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"pC+AraC+pBad+GFPc"
   },
   {
@@ -2132,6 +2225,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"CRTYB"
   },
   {
@@ -2151,6 +2245,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"pLacI Regulated Lumazine Synthase with Transciptional Terminator and pBAD"
   },
   {
@@ -2170,6 +2265,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0030) + GFP  Constitutive Promoter + RBS (B0030) + LasR"
   },
   {
@@ -2189,6 +2285,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0030) + GFP  Constitutive Promoter + RBS (B0034) + LasR"
   },
   {
@@ -2208,6 +2305,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0030) + RFP  Constitutive Promoter + RBS (B0030) + LasR\t"
   },
   {
@@ -2355,6 +2453,8 @@
     "Well":" 15O",
     "Part":"BBa_K592027",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"BBa_S04615",
     "Type":" Measurement",
     "Subparts":" 3",
@@ -2388,6 +2488,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0030) + RFP  Constitutive Promoter + RBS (B0034) + LasR\t"
   },
   {
@@ -2407,6 +2508,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0034) + GFP  Constitutive Promoter + RBS (B0034) + LasR\t"
   },
   {
@@ -2426,6 +2528,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"LasR/PAI1 Inducible Promoter + RBS (B0034) + RFP  Constitutive Promoter + RBS (B0034) + LasR\t"
   },
   {
@@ -2533,6 +2636,8 @@
     "Well":" 17A",
     "Part":"BBa_K592029",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Sequence verified before cloning into pSB1C3",
     "Type":" Measurement",
     "Subparts":" 3",
@@ -2574,6 +2679,8 @@
     "Well":" 17E",
     "Part":"BBa_S04614",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Sequence verified before cloning into pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
@@ -2595,6 +2702,8 @@
     "Well":" 17G",
     "Part":"BBa_K592026",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Sequence verified before cloning into pSB1C3",
     "Type":" Measurement",
     "Subparts":" 3",
@@ -2756,6 +2865,8 @@
     "Well":" 18G",
     "Part":"BBa_K629003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"In our second  shipment.",
     "Type":" Coding",
     "Subparts":" 1",
@@ -2777,6 +2888,8 @@
     "Well":" 18I",
     "Part":"BBa_K594001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"100% correct",
     "Type":" Coding",
     "Subparts":" 1",
@@ -2798,6 +2911,8 @@
     "Well":" 18K",
     "Part":"BBa_K594005",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"This part has been sent to sequencing center, but no result comes out still.",
     "Type":" Coding",
     "Subparts":" 1",
@@ -2819,6 +2934,8 @@
     "Well":" 18M",
     "Part":"BBa_K594007",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"This part has been sent to sequencing center, but no result comes out still. ",
     "Type":" Coding",
     "Subparts":" 1",
@@ -2840,6 +2957,8 @@
     "Well":" 18O",
     "Part":"BBa_K594008",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"This part has been sent to sequencing center, but no result comes out still.",
     "Type":" Coding",
     "Subparts":" 1",
@@ -3514,6 +3633,8 @@
     "Well":" 23B",
     "Part":"BBa_K143012",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"there were no samples of this part, so we are sending it. ",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -3535,6 +3656,8 @@
     "Well":" 23D",
     "Part":"BBa_K813000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"YAP1- Yeast Genomic IRES",
     "Type":" Other",
     "Subparts":" 1",
@@ -3546,6 +3669,8 @@
     "Well":" 23E",
     "Part":"BBa_K656010",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"promoter specific to cyanobacteria (Anabaena)",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -3557,6 +3682,8 @@
     "Well":" 23F",
     "Part":"BBa_K813001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"URE2- Yeast Genomic IRES",
     "Type":" Other",
     "Subparts":" 1",
@@ -3578,6 +3705,8 @@
     "Well":" 23H",
     "Part":"BBa_K813002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"HAP4- Yeast Genomic IRES",
     "Type":" Other",
     "Subparts":" 1",
@@ -3641,6 +3770,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -3648,9 +3778,12 @@
     "Well":" 24A",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -3668,6 +3801,8 @@
     "Well":" 24C",
     "Part":"BBa_K847061",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"otsB",
     "Type":" Coding",
     "Subparts":" 1",
@@ -3689,6 +3824,8 @@
     "Well":" 24E",
     "Part":"BBa_K847004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"SodCuZn",
     "Type":" Coding",
     "Subparts":" 1",
@@ -3782,6 +3919,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
 
@@ -3950,6 +4088,8 @@
     "Well":" 2A",
     "Part":"BBa_K747000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -3971,6 +4111,8 @@
     "Well":" 2C",
     "Part":"BBa_K747001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -3992,6 +4134,8 @@
     "Well":" 2E",
     "Part":"BBa_K747002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4005,6 +4149,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"TE from coliphage T7  reversed"
   },
   {
@@ -4012,6 +4157,8 @@
     "Well":" 2G",
     "Part":"BBa_K747003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4033,6 +4180,8 @@
     "Well":" 2I",
     "Part":"BBa_K747004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4054,6 +4203,8 @@
     "Well":" 2K",
     "Part":"BBa_K747005",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4075,6 +4226,8 @@
     "Well":" 2M",
     "Part":"BBa_K747006",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4096,6 +4249,8 @@
     "Well":" 2O",
     "Part":"BBa_K747007",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4227,6 +4382,8 @@
     "Well":" 3L",
     "Part":"BBa_K784006",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"shipment #01354 tube #6",
     "Type":" Composite",
     "Subparts":" 2",
@@ -4238,6 +4395,8 @@
     "Well":" 3M",
     "Part":"BBa_K629005",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"In our second  shipment.",
     "Type":" Coding",
     "Subparts":" 1",
@@ -4249,6 +4408,8 @@
     "Well":" 3N",
     "Part":"BBa_K784013",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"shipment #01354 tube #8",
     "Type":" Composite",
     "Subparts":" 3",
@@ -4270,6 +4431,8 @@
     "Well":" 3P",
     "Part":"BBa_K784014",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"shipment #01354 tube #10",
     "Type":" Composite",
     "Subparts":" 3",
@@ -4281,6 +4444,8 @@
     "Well":" 4A",
     "Part":"BBa_K747008",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4302,6 +4467,8 @@
     "Well":" 4C",
     "Part":"BBa_K747009",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4323,6 +4490,8 @@
     "Well":" 4E",
     "Part":"BBa_K747010",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4344,6 +4513,8 @@
     "Well":" 4G",
     "Part":"BBa_K747011",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4365,6 +4536,8 @@
     "Well":" 4I",
     "Part":"BBa_K747012",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4386,6 +4559,8 @@
     "Well":" 4K",
     "Part":"BBa_K747013",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4399,6 +4574,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"luxR repressor/activator   (no LVA?)"
   },
   {
@@ -4406,6 +4582,8 @@
     "Well":" 4M",
     "Part":"BBa_K747014",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4427,6 +4605,8 @@
     "Well":" 4O",
     "Part":"BBa_K747015",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4508,6 +4688,8 @@
     "Well":" 5G",
     "Part":"BBa_K847060",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"otsA",
     "Type":" Coding",
     "Subparts":" 1",
@@ -4609,6 +4791,8 @@
     "Well":" 6A",
     "Part":"BBa_K747016",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4630,6 +4814,8 @@
     "Well":" 6C",
     "Part":"BBa_K747017",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4643,6 +4829,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (lacI regulated  lambda pL hybrid)"
   },
   {
@@ -4650,6 +4837,8 @@
     "Well":" 6E",
     "Part":"BBa_K747018",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4671,6 +4860,8 @@
     "Well":" 6G",
     "Part":"BBa_K747019",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4692,6 +4883,8 @@
     "Well":" 6I",
     "Part":"BBa_K747020",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4713,6 +4906,8 @@
     "Well":" 6K",
     "Part":"BBa_K747021",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4734,6 +4929,8 @@
     "Well":" 6M",
     "Part":"BBa_K747022",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4747,6 +4944,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Standard (luxR and HSL regulated -- lux pR)<br>"
   },
   {
@@ -4754,6 +4952,8 @@
     "Well":" 6O",
     "Part":"BBa_K747023",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4845,6 +5045,8 @@
     "Well":" 7H",
     "Part":"BBa_K779500",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"From shipment 01720: Tube 1",
     "Type":" Other",
     "Subparts":" 1",
@@ -4866,6 +5068,8 @@
     "Well":" 7J",
     "Part":"BBa_K779501",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tFrom shipment 01720: Tube 2",
     "Type":" Other",
     "Subparts":" 1",
@@ -4887,6 +5091,8 @@
     "Well":" 7L",
     "Part":"BBa_K779503",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"From shipment 01720: Tube 3",
     "Type":" Other",
     "Subparts":" 1",
@@ -4908,6 +5114,8 @@
     "Well":" 7N",
     "Part":"BBa_K779504",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"From shipment 01720: Tube 4",
     "Type":" Other",
     "Subparts":" 1",
@@ -4939,6 +5147,8 @@
     "Well":" 8A",
     "Part":"BBa_K747024",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4960,6 +5170,8 @@
     "Well":" 8C",
     "Part":"BBa_K747025",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -4981,6 +5193,8 @@
     "Well":" 8E",
     "Part":"BBa_K747026",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5002,6 +5216,8 @@
     "Well":" 8G",
     "Part":"BBa_K747027",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5023,6 +5239,8 @@
     "Well":" 8I",
     "Part":"BBa_K747028",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5044,6 +5262,8 @@
     "Well":" 8K",
     "Part":"BBa_K747029",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5065,6 +5285,8 @@
     "Well":" 8M",
     "Part":"BBa_K747030",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5086,6 +5308,8 @@
     "Well":" 8O",
     "Part":"BBa_K747031",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5197,6 +5421,8 @@
     "Well":" 9J",
     "Part":"BBa_K916000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"TraR Coding Sequence",
     "Type":" Coding",
     "Subparts":" 1",
@@ -5218,6 +5444,8 @@
     "Well":" 9L",
     "Part":"BBa_K747094",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5239,6 +5467,8 @@
     "Well":" 9N",
     "Part":"BBa_K747095",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5270,6 +5500,8 @@
     "Well":" 10A",
     "Part":"BBa_K747032",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5291,6 +5523,8 @@
     "Well":" 10C",
     "Part":"BBa_K747033",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5312,6 +5546,8 @@
     "Well":" 10E",
     "Part":"BBa_K747034",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5333,6 +5569,8 @@
     "Well":" 10G",
     "Part":"BBa_K747035",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5354,6 +5592,8 @@
     "Well":" 10I",
     "Part":"BBa_K747036",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5375,6 +5615,8 @@
     "Well":" 10K",
     "Part":"BBa_K747037",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5396,6 +5638,8 @@
     "Well":" 10M",
     "Part":"BBa_K747038",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5417,6 +5661,8 @@
     "Well":" 10O",
     "Part":"BBa_K747039",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5458,6 +5704,8 @@
     "Well":" 11C",
     "Part":"BBa_K934001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"phaC1-A-B1",
     "Type":" Composite",
     "Subparts":" 1",
@@ -5479,6 +5727,8 @@
     "Well":" 11E",
     "Part":"BBa_K934023",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"3OC6HSL->3OC12HSL ",
     "Type":" Composite",
     "Subparts":" 9",
@@ -5600,6 +5850,8 @@
     "Well":" 12A",
     "Part":"BBa_K747040",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5621,6 +5873,8 @@
     "Well":" 12C",
     "Part":"BBa_K747041",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5642,6 +5896,8 @@
     "Well":" 12E",
     "Part":"BBa_K747042",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5663,6 +5919,8 @@
     "Well":" 12G",
     "Part":"BBa_K747043",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5684,6 +5942,8 @@
     "Well":" 12I",
     "Part":"BBa_K747044",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5705,6 +5965,8 @@
     "Well":" 12K",
     "Part":"BBa_K747045",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5726,6 +5988,8 @@
     "Well":" 12M",
     "Part":"BBa_K747046",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5747,6 +6011,8 @@
     "Well":" 12O",
     "Part":"BBa_K747047",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5928,6 +6194,8 @@
     "Well":" 14A",
     "Part":"BBa_K747048",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5949,6 +6217,8 @@
     "Well":" 14C",
     "Part":"BBa_K747049",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5970,6 +6240,8 @@
     "Well":" 14E",
     "Part":"BBa_K747050",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -5991,6 +6263,8 @@
     "Well":" 14G",
     "Part":"BBa_K747051",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6012,6 +6286,8 @@
     "Well":" 14I",
     "Part":"BBa_K747052",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6033,6 +6309,8 @@
     "Well":" 14K",
     "Part":"BBa_K747053",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6054,6 +6332,8 @@
     "Well":" 14M",
     "Part":"BBa_K747054",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6075,6 +6355,8 @@
     "Well":" 14O",
     "Part":"BBa_K747055",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6256,6 +6538,8 @@
     "Well":" 16A",
     "Part":"BBa_K747056",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6277,6 +6561,8 @@
     "Well":" 16C",
     "Part":"BBa_K747057",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6288,6 +6574,8 @@
     "Well":" 16D",
     "Part":"BBa_I14044",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Plasmid unknown, AmpR",
     "Type":" Translational_Unit",
     "Subparts":" 2",
@@ -6299,6 +6587,8 @@
     "Well":" 16E",
     "Part":"BBa_K747058",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6310,6 +6600,8 @@
     "Well":" 16F",
     "Part":"BBa_I13013",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Plasmid unknown, AmpR",
     "Type":" Measurement",
     "Subparts":" 5",
@@ -6321,6 +6613,8 @@
     "Well":" 16G",
     "Part":"BBa_K747059",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6342,6 +6636,8 @@
     "Well":" 16I",
     "Part":"BBa_K747060",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6363,6 +6659,8 @@
     "Well":" 16K",
     "Part":"BBa_K747061",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6384,6 +6682,8 @@
     "Well":" 16M",
     "Part":"BBa_K747062",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6405,6 +6705,8 @@
     "Well":" 16O",
     "Part":"BBa_K747063",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6418,6 +6720,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"ECFP Coding Device with Promoter  RBS  Coding Sequence  and Terminator"
   },
   {
@@ -6545,6 +6848,8 @@
     "Well":" 17M",
     "Part":"BBa_K741002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"More than 1 ug in the tube.",
     "Type":" Generator",
     "Subparts":" 5",
@@ -6566,6 +6871,8 @@
     "Well":" 17O",
     "Part":"BBa_K741008",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"More than 1 ug in the tube.",
     "Type":" Generator",
     "Subparts":" 5",
@@ -6587,6 +6894,8 @@
     "Well":" 18A",
     "Part":"BBa_K747064",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6608,6 +6917,8 @@
     "Well":" 18C",
     "Part":"BBa_K747065",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6629,6 +6940,8 @@
     "Well":" 18E",
     "Part":"BBa_K747066",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6642,6 +6955,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Construction Intermediate: mCherry  bacterial with RBS (B0034.J06504)"
   },
   {
@@ -6649,6 +6963,8 @@
     "Well":" 18G",
     "Part":"BBa_K747067",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6670,6 +6986,8 @@
     "Well":" 18I",
     "Part":"BBa_K747068",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6691,6 +7009,8 @@
     "Well":" 18K",
     "Part":"BBa_K747069",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6712,6 +7032,8 @@
     "Well":" 18M",
     "Part":"BBa_K747070",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6733,6 +7055,8 @@
     "Well":" 18O",
     "Part":"BBa_K747071",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6754,6 +7078,8 @@
     "Well":" 19A",
     "Part":"BBa_K741020",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"More than 1 ug in the tube.",
     "Type":" Composite",
     "Subparts":" 10",
@@ -6765,6 +7091,8 @@
     "Well":" 19B",
     "Part":"BBa_K784047",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"shipment #01354 tube #25",
     "Type":" Composite",
     "Subparts":" 2",
@@ -6916,6 +7244,8 @@
     "Well":" 20A",
     "Part":"BBa_K747072",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6937,6 +7267,8 @@
     "Well":" 20C",
     "Part":"BBa_K747073",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6958,6 +7290,8 @@
     "Well":" 20E",
     "Part":"BBa_K747074",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -6979,6 +7313,8 @@
     "Well":" 20G",
     "Part":"BBa_K747075",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7000,6 +7336,8 @@
     "Well":" 20I",
     "Part":"BBa_K747076",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7021,6 +7359,8 @@
     "Well":" 20K",
     "Part":"BBa_K747077",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7034,6 +7374,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"Promoter Activity Reporter (LacZ-alpha and RFP)"
   },
   {
@@ -7041,6 +7382,8 @@
     "Well":" 20M",
     "Part":"BBa_K747078",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7054,6 +7397,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"R0010 I732020"
   },
   {
@@ -7061,6 +7405,8 @@
     "Well":" 20O",
     "Part":"BBa_K747079",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7074,6 +7420,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"ARL2A0101 (RBS+  TERM-)"
   },
   {
@@ -7211,6 +7558,8 @@
     "Well":" 21N",
     "Part":"BBa_K952003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Part submitted 10/3/12 in shipment 01717",
     "Type":" Intermediate",
     "Subparts":" 6",
@@ -7222,6 +7571,8 @@
     "Well":" 21O",
     "Part":"BBa_K864444",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Visually confirmed, red on plate",
     "Type":" Composite",
     "Subparts":" 1",
@@ -7243,6 +7594,8 @@
     "Well":" 22A",
     "Part":"BBa_K747080",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7256,6 +7609,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"R0011 I732020"
   },
   {
@@ -7263,6 +7617,8 @@
     "Well":" 22C",
     "Part":"BBa_K747081",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7276,6 +7632,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"lacZ alpha fragment (RBS+ TERM-)"
   },
   {
@@ -7283,6 +7640,8 @@
     "Well":" 22E",
     "Part":"BBa_K747082",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7296,6 +7655,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"ARL2A0203 (RBS+  TERM-)"
   },
   {
@@ -7303,6 +7663,8 @@
     "Well":" 22G",
     "Part":"BBa_K747083",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7324,6 +7686,8 @@
     "Well":" 22I",
     "Part":"BBa_K747084",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7345,6 +7709,8 @@
     "Well":" 22K",
     "Part":"BBa_K747085",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7366,6 +7732,8 @@
     "Well":" 22M",
     "Part":"BBa_K747086",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7387,6 +7755,8 @@
     "Well":" 22O",
     "Part":"BBa_K747087",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"\tA silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7480,6 +7850,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -7487,6 +7858,8 @@
     "Well":" 24A",
     "Part":"BBa_K747088",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7508,6 +7881,8 @@
     "Well":" 24C",
     "Part":"BBa_K747089",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7529,6 +7904,8 @@
     "Well":" 24E",
     "Part":"BBa_K747090",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7550,6 +7927,8 @@
     "Well":" 24G",
     "Part":"BBa_K747091",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7571,6 +7950,8 @@
     "Well":" 24I",
     "Part":"BBa_K747092",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7584,6 +7965,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"AHL-making Enzyme  luxI (+RBS)"
   },
   {
@@ -7591,6 +7973,8 @@
     "Well":" 24K",
     "Part":"BBa_K747093",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -7614,6 +7998,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -7621,9 +8006,12 @@
     "Well":" 24P",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
 
@@ -7634,6 +8022,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0079"
   },
   {
@@ -7643,6 +8032,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"crtI coding sequence encoding phytoene dehydrogenase"
   },
   {
@@ -7652,6 +8042,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP"
   },
   {
@@ -7661,6 +8052,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+glgC (ADP-glucose pyrophosphorylase)"
   },
   {
@@ -7670,6 +8062,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" enhanced cyan fluorescent protein derived from A. victoria GFP"
   },
   {
@@ -7679,6 +8072,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+glgC16 (glgC with G336D substitution)"
   },
   {
@@ -7688,6 +8082,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced cyan fluorescent protein derived from A. victoria GFP"
   },
   {
@@ -7697,6 +8092,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> LacI   [S0150]"
   },
   {
@@ -7706,6 +8102,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP"
   },
   {
@@ -7715,6 +8112,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from phage 434 (no LVA)"
   },
   {
@@ -7724,6 +8122,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer inactivation enzyme aiiA (no LVA)"
   },
   {
@@ -7733,6 +8132,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RhlR protein generator (LVA-)"
   },
   {
@@ -7742,6 +8142,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0032.E0040"
   },
   {
@@ -7751,6 +8152,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"LacI (RBS+  TERM+)"
   },
   {
@@ -7760,6 +8162,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"R0040.B0030.E0040"
   },
   {
@@ -7769,6 +8172,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"Promoter Activity Reporter (LacZ-alpha and GFP-AAV)"
   },
   {
@@ -7778,6 +8182,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"hemD"
   },
   {
@@ -7787,6 +8192,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0053"
   },
   {
@@ -7796,6 +8202,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lox71"
   },
   {
@@ -7805,6 +8212,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"GFP reporter for RHS of library test constructs"
   },
   {
@@ -7814,6 +8222,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dif site with forward orientation"
   },
   {
@@ -7823,6 +8232,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"lacZ alpha (fragment RBS+ TERM+)"
   },
   {
@@ -7832,6 +8242,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dif site with reverse orientation"
   },
   {
@@ -7841,6 +8252,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Zif23-GCN4 engineered repressor (+LVA  C2000 codon-optimized for E.coli)"
   },
   {
@@ -7850,6 +8262,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"crtZ (beta-carotene hydroxylase) with native rbs"
   },
   {
@@ -7859,6 +8272,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Inverter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"QPI (B0034.C0053.B0015.R0053)"
   },
   {
@@ -7868,6 +8282,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Right facing promoter (for xylF) controlled by xylR and CRP-cAMP"
   },
   {
@@ -7877,6 +8292,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P(Bla)"
   },
   {
@@ -7886,6 +8302,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"XylR Transcriptional Regulator Right Facing"
   },
   {
@@ -7895,6 +8312,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"R0077.E0030.B0015"
   },
   {
@@ -7904,6 +8322,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"MalE.FactorXa.Zif268-GCN4"
   },
   {
@@ -7913,6 +8332,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"B0015:S03708"
   },
   {
@@ -7922,6 +8342,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"R0040.B0032.E0040"
   },
   {
@@ -7931,6 +8352,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lacZ alpha fragment"
   },
   {
@@ -7940,6 +8362,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.E0020"
   },
   {
@@ -7949,6 +8372,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Tet repressor generator (version1  TERM+)"
   },
   {
@@ -7958,6 +8382,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)"
   },
   {
@@ -7967,6 +8392,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"double terminator (B0010-B0012)"
   },
   {
@@ -7976,6 +8402,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (cinR and HSL regulated)"
   },
   {
@@ -7985,6 +8412,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"green fluorescent protein derived from A. victoria GFP (SwissProt: P42212) with PEST191 tag"
   },
   {
@@ -7994,6 +8422,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)"
   },
   {
@@ -8003,6 +8432,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" luciferase: luciferin 2-monooxygenase from Renilla reniformis (EC 1.13.12.5; SwissProt:: P27652)"
   },
   {
@@ -8012,6 +8442,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)"
   },
   {
@@ -8021,6 +8452,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Tag",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PelB leader sequence; directs protein to E. coli periplasmic membrane"
   },
   {
@@ -8030,6 +8462,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (cinR and HSL regulated  RBS+)"
   },
   {
@@ -8039,6 +8472,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034:J32004"
   },
   {
@@ -8048,6 +8482,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (PenI regulated)"
   },
   {
@@ -8057,6 +8492,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  small  %T~=80)"
   },
   {
@@ -8066,6 +8502,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"COMT"
   },
   {
@@ -8075,6 +8512,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"I14016:S03873"
   },
   {
@@ -8084,6 +8522,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Lac Y gene"
   },
   {
@@ -8093,6 +8532,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"R0062:S03873"
   },
   {
@@ -8102,6 +8542,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"xylE reporter gene with rbs"
   },
   {
@@ -8111,6 +8552,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"B0015.I6108"
   },
   {
@@ -8120,6 +8562,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"promoter (lacI regulated)"
   },
   {
@@ -8129,6 +8572,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"CinR protein generator "
   },
   {
@@ -8138,6 +8582,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Amino Half of GFP (aka GFP1)"
   },
   {
@@ -8147,6 +8592,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dnTraf6"
   },
   {
@@ -8156,6 +8602,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"[Lox] site for recombination"
   },
   {
@@ -8165,6 +8612,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"RBS + BAT2 + RBS"
   },
   {
@@ -8174,6 +8622,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"E. coli ars promoter  arsR gene and lacZ"
   },
   {
@@ -8183,6 +8632,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"AraCPCrev : TT"
   },
   {
@@ -8190,9 +8640,12 @@
     "Well":" 4O",
     "Part":"BBa_F2620",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> BB_Barry Box 1",
     "Type":" Signalling",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"3OC<sub>6</sub>HSL -> PoPS Receiver"
   },
   {
@@ -8202,6 +8655,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"B0100:B0015"
   },
   {
@@ -8211,6 +8665,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"--Specify Parts List--"
   },
   {
@@ -8220,6 +8675,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  small  %T~=25%"
   },
   {
@@ -8229,6 +8685,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (LasR & PAI regulated)"
   },
   {
@@ -8238,6 +8695,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  large  %T~>90)"
   },
   {
@@ -8247,6 +8705,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (RhlR & C4-HSL regulated)"
   },
   {
@@ -8256,6 +8715,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  large  %T~=80)"
   },
   {
@@ -8265,6 +8725,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (AraC regulated)"
   },
   {
@@ -8274,6 +8735,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  large   %T~=70)"
   },
   {
@@ -8283,6 +8745,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"mnt QPI Intermediate"
   },
   {
@@ -8292,6 +8755,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terminator (artificial  large  %T~=40%)"
   },
   {
@@ -8301,6 +8765,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"penI QPI intermediate"
   },
   {
@@ -8310,6 +8775,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Terninator (artificial  large  %T~<10)"
   },
   {
@@ -8319,6 +8785,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"cI (TP-901) QPI intermediate"
   },
   {
@@ -8328,6 +8795,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL2A0101"
   },
   {
@@ -8337,6 +8805,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"3OC<sub>6</sub>HSL Sender Controlled by Lac Repressible Promoter"
   },
   {
@@ -8346,6 +8815,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL2A0102"
   },
   {
@@ -8353,9 +8823,12 @@
     "Well":" 6A",
     "Part":"BBa_I13973",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> BB_Josh Box 1",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"c1 promoter + YFP-aav reporter device"
   },
   {
@@ -8365,6 +8838,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"E0042:S03650"
   },
   {
@@ -8372,9 +8846,12 @@
     "Well":" 6C",
     "Part":"BBa_B0017",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 1",
     "Type":" Terminator",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"double terminator (B0010-B0010)"
   },
   {
@@ -8384,6 +8861,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"BBa_J04700 (ForAptRibo) Riboswitch with BBa_J04671 (EYFP  RBS-  LVA+  B0015)"
   },
   {
@@ -8391,9 +8869,12 @@
     "Well":" 6E",
     "Part":"BBa_B0021",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 1",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LuxICDABEG (+/-)  reversed"
   },
   {
@@ -8403,6 +8884,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"BBa_J04800 (RevAptRibo) Riboswitch with BBa_J04671 (EYFP  RBS-  LVA+  B0015)"
   },
   {
@@ -8410,9 +8892,12 @@
     "Well":" 6G",
     "Part":"BBa_I13521",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Ptet mRFP"
   },
   {
@@ -8422,6 +8907,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"BBa_J04900 (3AptRibo) Riboswitch with BBa_J04671 (EYFP  RBS-  LVA+  B0015)"
   },
   {
@@ -8429,9 +8915,12 @@
     "Well":" 6I",
     "Part":"BBa_I13522",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 8",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pTet GFP"
   },
   {
@@ -8441,6 +8930,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Test construct for screening plasmid"
   },
   {
@@ -8448,9 +8938,12 @@
     "Well":" 6K",
     "Part":"BBa_C0171",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Jen-1",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"rhlR repressor/activator from P. aeruginosa PA3477 (no LVA)"
   },
   {
@@ -8460,6 +8953,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"LRLa (RBS+  TERM+)"
   },
   {
@@ -8467,9 +8961,12 @@
     "Well":" 6M",
     "Part":"BBa_C0179",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Jen-1",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lasR activator from P. aeruginosa PAO1(no LVA)"
   },
   {
@@ -8479,6 +8976,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ARL2A0203 (RBS+  TERM+)"
   },
   {
@@ -8486,9 +8984,12 @@
     "Well":" 6O",
     "Part":"BBa_C0161",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Jen-Box 3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer synthetase for AHL (no LVA)"
   },
   {
@@ -8498,6 +8999,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ARL4A0604 (RBS+  TERM+)"
   },
   {
@@ -8507,6 +9009,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Inverter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Quadpart Amplifier (B0034.C0062.B0015.R0062)"
   },
   {
@@ -8516,6 +9019,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL2A0301"
   },
   {
@@ -8525,6 +9029,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Tet operator with CFP reporter (with LVA tag) [R/Tc+]"
   },
   {
@@ -8534,6 +9039,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Rluc-linker-PEST191"
   },
   {
@@ -8543,6 +9049,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Removes BioBrick End"
   },
   {
@@ -8552,6 +9059,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dnTraf6-linker-GFP"
   },
   {
@@ -8561,6 +9069,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"ARL4A0604 (RBS+  TERM-)"
   },
   {
@@ -8570,6 +9079,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced version of ECFP  yeast-optimized"
   },
   {
@@ -8579,6 +9089,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"R0040 B0015"
   },
   {
@@ -8588,6 +9099,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced version of EYFP  yeast-optimized"
   },
   {
@@ -8597,6 +9109,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"ARL2A0103 (RBS+  TERM-)"
   },
   {
@@ -8606,6 +9119,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"derivative of mRFP1  yeast-optimized"
   },
   {
@@ -8615,6 +9129,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Promoter Adaptor + LacZ-alpha Reporter"
   },
   {
@@ -8624,6 +9139,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer synthetase for N-butyryl-HSL (BHL) and HHL"
   },
   {
@@ -8633,6 +9149,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"ARL2A0301 (RBS+  TERM-)"
   },
   {
@@ -8642,6 +9159,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"rhlR repressor/activator from P. aeruginosa PA3477 (+LVA)"
   },
   {
@@ -8649,9 +9167,12 @@
     "Well":" 8A",
     "Part":"BBa_I732100",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LacI"
   },
   {
@@ -8661,6 +9182,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"I746000 (AIP generator - agrB + agrD with RBSes) + B0015 (Terminator)"
   },
   {
@@ -8668,9 +9190,12 @@
     "Well":" 8C",
     "Part":"BBa_I715020",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Carboxyl Half of GFP (aka GFP2)"
   },
   {
@@ -8680,6 +9205,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"cI repressor (+LVA) regulated by pLac Promoter "
   },
   {
@@ -8687,9 +9213,12 @@
     "Well":" 8E",
     "Part":"BBa_I746360",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PF promoter from P2 phage"
   },
   {
@@ -8699,6 +9228,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL2A0103"
   },
   {
@@ -8706,9 +9236,12 @@
     "Well":" 8G",
     "Part":"BBa_I746361",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PO promoter from P2 phage"
   },
   {
@@ -8718,6 +9251,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL2A0203"
   },
   {
@@ -8725,9 +9259,12 @@
     "Well":" 8I",
     "Part":"BBa_I746364",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Psid promoter from P4 phage"
   },
   {
@@ -8737,6 +9274,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ARL4A0604"
   },
   {
@@ -8744,9 +9282,12 @@
     "Well":" 8K",
     "Part":"BBa_I750013",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ComAalt"
   },
   {
@@ -8754,9 +9295,12 @@
     "Well":" 8L",
     "Part":"BBa_R0052",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 1",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (434 cI regulated)"
   },
   {
@@ -8766,6 +9310,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"superfolder GFP driven by T7 promoter"
   },
   {
@@ -8773,9 +9318,12 @@
     "Well":" 8N",
     "Part":"BBa_R1050",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Jen-1",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Standard (HK022 cI regulated) <br>"
   },
   {
@@ -8785,6 +9333,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"GFP expression controlled by LuxR promoter"
   },
   {
@@ -8792,9 +9341,12 @@
     "Well":" 8P",
     "Part":"BBa_I20270",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1022",
     "Type":" Measurement",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Promoter MeasKit (J23151)"
   },
   {
@@ -8804,6 +9356,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Promoter Adapter  + LacI"
   },
   {
@@ -8813,6 +9366,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"mnt repressor (strong) from Salmonella phage P22 (+LVA)"
   },
   {
@@ -8822,6 +9376,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Promoter Activity Reporter (RFP)"
   },
   {
@@ -8831,6 +9386,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"mnt repressor (weak) from Salmonella phage P22 (+LVA)"
   },
   {
@@ -8840,6 +9396,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Tet repressor (RBS+ LVA- TERM-)"
   },
   {
@@ -8849,6 +9406,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"penI repressor from Bacillus licheniformis (+LVA)"
   },
   {
@@ -8858,6 +9416,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"LRLa (RBS+  TERM-)"
   },
   {
@@ -8867,6 +9426,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"TP901 cI repressor from phage TP901-1  (+LVA)"
   },
   {
@@ -8876,6 +9436,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"pLac-RBS-RFP"
   },
   {
@@ -8885,6 +9446,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer synthetase"
   },
   {
@@ -8894,6 +9456,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"GFP under control of PF promoter"
   },
   {
@@ -8903,6 +9466,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cinR activator from Rhizobium leguminosarum (+LVA)"
   },
   {
@@ -8912,6 +9476,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"GFP under control of Psid promoter"
   },
   {
@@ -8921,6 +9486,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer synthetase for PAI from Pseudomonas aeruginosa"
   },
   {
@@ -8930,6 +9496,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"GFP  with agr P2 promoter"
   },
   {
@@ -8939,6 +9506,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lasR activator from P. aeruginosa PAO1(+LVA)"
   },
   {
@@ -8946,6 +9514,8 @@
     "Well":" 10A",
     "Part":"BBa_K203109",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Insert in BBb format",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -8959,6 +9529,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LacY transporter protein from E. coli"
   },
   {
@@ -8966,6 +9537,8 @@
     "Well":" 10C",
     "Part":"BBa_K203110",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Insert in BBb format",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -8987,6 +9560,8 @@
     "Well":" 10E",
     "Part":"BBa_K203111",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Insert in BBb format",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -9008,6 +9583,8 @@
     "Well":" 10G",
     "Part":"BBa_K203118",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Insert in BBb format",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -9029,6 +9606,8 @@
     "Well":" 10I",
     "Part":"BBa_K203125",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Insert in BBb format",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -9052,6 +9631,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Pr with GFP as a reporter"
   },
   {
@@ -9061,6 +9641,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"Screening plasmid 1"
   },
   {
@@ -9068,9 +9649,12 @@
     "Well":" 10M",
     "Part":"BBa_J33202",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lacZ"
   },
   {
@@ -9080,6 +9664,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"Screening Plasmid 3"
   },
   {
@@ -9087,9 +9672,12 @@
     "Well":" 10O",
     "Part":"BBa_J33201",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"E. coli chromosomal ars promoter with arsR repressor gene"
   },
   {
@@ -9099,6 +9687,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"E0432.R0062.E0422"
   },
   {
@@ -9108,6 +9697,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lacIq reverse"
   },
   {
@@ -9117,6 +9707,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"araC arabinose operon regulatory protein (repressor/activator) from E. coli (+LVA)"
   },
   {
@@ -9126,6 +9717,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Conjugation",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"OriT-R (Origin of Transfer for the R751-plasmid nic region) "
   },
   {
@@ -9135,6 +9727,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (HSL-mediated luxR repressor)"
   },
   {
@@ -9144,6 +9737,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"[R0010][I714031]"
   },
   {
@@ -9153,6 +9747,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (Mnt regulated)"
   },
   {
@@ -9162,6 +9757,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Riboregulator key 1 "
   },
   {
@@ -9171,6 +9767,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Inhibitor (AraC loop attachment with O2 site)"
   },
   {
@@ -9180,6 +9777,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"RBS-LacY"
   },
   {
@@ -9189,6 +9787,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Zif23 regulated  test: between"
   },
   {
@@ -9198,6 +9797,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"[lox][terminator][lox]"
   },
   {
@@ -9207,6 +9807,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Zif23 regulated  test: between and after"
   },
   {
@@ -9216,6 +9817,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"BamHI endonuclease without start codon"
   },
   {
@@ -9225,6 +9827,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" **highly** engineered mutant of red fluorescent protein from Discosoma striata (coral)"
   },
   {
@@ -9234,6 +9837,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Barnase active peptide"
   },
   {
@@ -9243,6 +9847,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"CheB chemotaxis coding sequence (protein glutamate methylesterase)"
   },
   {
@@ -9252,6 +9857,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"[J01008][B0015] ([Key1][Double Terminator])"
   },
   {
@@ -9261,6 +9867,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"B0034.C0071.E0420"
   },
   {
@@ -9270,6 +9877,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"EYFP (RBS+ LVA+ TERM) (B0034.E0032.B0015)"
   },
   {
@@ -9279,6 +9887,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"B0034.C0070.E0420"
   },
   {
@@ -9288,6 +9897,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"monomeric RFP optimized for bacteria"
   },
   {
@@ -9297,6 +9907,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"B0034.C0079.E0420"
   },
   {
@@ -9306,6 +9917,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RBS-GFP (+LVA Tag)-Terminators"
   },
   {
@@ -9315,6 +9927,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"B0034.C0078.E0420"
   },
   {
@@ -9322,9 +9935,12 @@
     "Well":" 12I",
     "Part":"BBa_I746907",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"T7 promoter driving 6-his tagged P7 GFP"
   },
   {
@@ -9334,6 +9950,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"R0040.B0034.C0079.E0420"
   },
   {
@@ -9341,9 +9958,12 @@
     "Well":" 12K",
     "Part":"BBa_K112806",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"[T4 endolysin] "
   },
   {
@@ -9353,6 +9973,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"R0040.B0034.C0078.E0420"
   },
   {
@@ -9360,9 +9981,12 @@
     "Well":" 12M",
     "Part":"BBa_K165002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Kozak sequence (yeast RBS)"
   },
   {
@@ -9372,6 +9996,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"I0500.Q04530.E0430"
   },
   {
@@ -9379,9 +10004,12 @@
     "Well":" 12O",
     "Part":"BBa_K165009",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Protein_Domain",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LexA DNA-binding domain"
   },
   {
@@ -9391,6 +10019,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"QPI Test Construct Intermediate (Q01400.E0430)"
   },
   {
@@ -9400,6 +10029,7 @@
     "Plasmid":" pSB1C3",
     "Type":" T7",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T7 Promoter (Mutant D)"
   },
   {
@@ -9409,6 +10039,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P(Rhl)"
   },
   {
@@ -9418,6 +10049,7 @@
     "Plasmid":" pSB1C3",
     "Type":" T7",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T7 Promoter (Mutant E)"
   },
   {
@@ -9427,6 +10059,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P(Cat)"
   },
   {
@@ -9436,6 +10069,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"pTet-lox71-rbs-gfp-ter"
   },
   {
@@ -9445,6 +10079,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Modified lamdba Prm promoter (cooperative repression by 434 cI)"
   },
   {
@@ -9454,6 +10089,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs-dapA coli"
   },
   {
@@ -9463,6 +10099,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"phycocyanobilin:ferredoxin oxidoreductase (PcyA) from synechocystis"
   },
   {
@@ -9472,6 +10109,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ptet-lox71-ter"
   },
   {
@@ -9481,6 +10119,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pTet-spacer-N"
   },
   {
@@ -9490,6 +10129,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"ter-lox66-rbs-dapA Coli"
   },
   {
@@ -9499,6 +10139,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pTet-spacer-cro"
   },
   {
@@ -9508,6 +10149,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs-dapA (B. Subtilis)"
   },
   {
@@ -9517,6 +10159,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Inverter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"QPI (B0034.J06500.B0015.R0011)"
   },
   {
@@ -9526,6 +10169,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"ter-lox66-rbs-dapA (B. Subtilis)"
   },
   {
@@ -9535,6 +10179,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Inverter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"QPI (B0034.J06501.B0015.R0011)"
   },
   {
@@ -9542,9 +10187,12 @@
     "Well":" 14A",
     "Part":"BBa_K206000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pBAD strong"
   },
   {
@@ -9554,6 +10202,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Lux Receiver (I13263 with reversed part order)"
   },
   {
@@ -9561,9 +10210,12 @@
     "Well":" 14C",
     "Part":"BBa_K206001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pBAD weak"
   },
   {
@@ -9573,6 +10225,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Lux Receiver (HSL & R0063 driven)"
   },
   {
@@ -9582,6 +10235,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"SupD-tRNA"
   },
   {
@@ -9591,6 +10245,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Reporter Construct (Ty+Lc+)"
   },
   {
@@ -9603,6 +10258,7 @@
     "Comments":" ",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"ccdB coding region"
   },
   {
@@ -9612,6 +10268,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Reporter construct for constitutive YFP and inducible CFP "
   },
   {
@@ -9621,6 +10278,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"FILTER Key (TetR promoter + key)"
   },
   {
@@ -9630,6 +10288,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"Reporter Construct (Ly-Tc-) for constitutive CFP and inducible YFP"
   },
   {
@@ -9639,6 +10298,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"INPUT TetR generator"
   },
   {
@@ -9648,6 +10308,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"RBS.GFP + PBad CFP"
   },
   {
@@ -9657,6 +10318,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Lactonase controlled by key/lock"
   },
   {
@@ -9666,6 +10328,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"RBS.YFP + Pbad CFP"
   },
   {
@@ -9675,6 +10338,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"GFP generator controlled by key/lock"
   },
   {
@@ -9684,6 +10348,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Screening Plasmid Intermediate"
   },
   {
@@ -9693,6 +10358,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"I718017:E0840"
   },
   {
@@ -9700,9 +10366,12 @@
     "Well":" 15B",
     "Part":"BBa_J06702",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Harvard iGEM2005 - 1",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"mCherry  bacterial with RBS and forward terminator"
   },
   {
@@ -9712,6 +10381,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"E0840:I718016"
   },
   {
@@ -9719,9 +10389,12 @@
     "Well":" 15D",
     "Part":"BBa_E0030",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 1",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP"
   },
   {
@@ -9731,6 +10404,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"I718017:B0015"
   },
   {
@@ -9738,9 +10412,12 @@
     "Well":" 15F",
     "Part":"BBa_S03575",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry 2006 -> 2006 Source Plate 3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034:J32020"
   },
   {
@@ -9750,6 +10427,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"B0015:I718016"
   },
   {
@@ -9757,9 +10435,12 @@
     "Well":" 15H",
     "Part":"BBa_P0140",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> TetR  [S0163]"
   },
   {
@@ -9769,6 +10450,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"COMT gene with ribosome binding site"
   },
   {
@@ -9776,9 +10458,12 @@
     "Well":" 15J",
     "Part":"BBa_P0340",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> TetR  [S0157]"
   },
   {
@@ -9788,6 +10473,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034:I15008"
   },
   {
@@ -9795,9 +10481,12 @@
     "Well":" 15L",
     "Part":"BBa_P0353",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cII (p22)   [S0161]"
   },
   {
@@ -9807,6 +10496,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Adds another BioBrick site"
   },
   {
@@ -9814,9 +10504,12 @@
     "Well":" 15N",
     "Part":"BBa_P0451",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cI (lambda)   [S0153]"
   },
   {
@@ -9826,6 +10519,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Screening plasmid intermediate"
   },
   {
@@ -9833,9 +10527,12 @@
     "Well":" 15P",
     "Part":"BBa_P0453",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cII (p22)   [S0155]"
   },
   {
@@ -9845,6 +10542,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pLac_lux hybrid promoter"
   },
   {
@@ -9854,6 +10552,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"Screening Plasmid 4"
   },
   {
@@ -9863,6 +10562,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"pLas/Lux Hybrid Promoter"
   },
   {
@@ -9872,6 +10572,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Screening plasmid intermediate"
   },
   {
@@ -9881,6 +10582,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"constitutive promoter family member and RBS"
   },
   {
@@ -9890,6 +10592,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 20",
+    "Source":" ",
     "Description":"Ring Oscillator Synchronization Device (lac)"
   },
   {
@@ -9899,6 +10602,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"cI repressor (TERM-)"
   },
   {
@@ -9908,6 +10612,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"intermediate for lac synchro device"
   },
   {
@@ -9917,6 +10622,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"luxI protein generator (TERM-)"
   },
   {
@@ -9926,6 +10632,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"intermediate for lac relaxation oscillator"
   },
   {
@@ -9935,6 +10642,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"lasI protein generator (TERM-)"
   },
   {
@@ -9944,6 +10652,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"polycistronic ECFP+EYFP under B0032"
   },
   {
@@ -9953,6 +10662,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"RBS - cI - RBS"
   },
   {
@@ -9962,6 +10672,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"Screening Plasmid 2"
   },
   {
@@ -9971,6 +10682,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"pcyA protein generator (TERM-)"
   },
   {
@@ -9980,6 +10692,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pLac-RBS-RFP-RBS-GFP"
   },
   {
@@ -9989,6 +10702,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Screening plasmid intermediate"
   },
   {
@@ -9996,9 +10710,12 @@
     "Well":" 17B",
     "Part":"BBa_I12006",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Modified lamdba Prm promoter (repressed by 434 cI)"
   },
   {
@@ -10008,6 +10725,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Screening plasmid intermediate"
   },
   {
@@ -10015,9 +10733,12 @@
     "Well":" 17D",
     "Part":"BBa_I12007",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Modified lambda Prm promoter (OR-3 obliterated)"
   },
   {
@@ -10027,6 +10748,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0032.ECFP"
   },
   {
@@ -10034,9 +10756,12 @@
     "Well":" 17F",
     "Part":"BBa_I14015",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P(Las) TetO"
   },
   {
@@ -10046,6 +10771,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0032.EYFP"
   },
   {
@@ -10053,9 +10779,12 @@
     "Well":" 17H",
     "Part":"BBa_I14032",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"promoter P(Lac) IQ"
   },
   {
@@ -10065,6 +10794,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Spacer.1 (generic)"
   },
   {
@@ -10072,9 +10802,12 @@
     "Well":" 17J",
     "Part":"BBa_I11033",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P22 ''attP''"
   },
   {
@@ -10084,6 +10817,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RBS B0030 w/ YFP (-LVA) TT"
   },
   {
@@ -10091,9 +10825,12 @@
     "Well":" 17L",
     "Part":"BBa_I11032",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P22 ''attB''  reverse complement"
   },
   {
@@ -10103,6 +10840,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"[R6K] Origin of replication"
   },
   {
@@ -10110,9 +10848,12 @@
     "Well":" 17N",
     "Part":"BBa_I11021",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"excisionase from E. coli phage lambda (removes prophage from host genome)"
   },
   {
@@ -10122,6 +10863,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member"
   },
   {
@@ -10129,9 +10871,12 @@
     "Well":" 17P",
     "Part":"BBa_I15008",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"heme oxygenase (ho1) from Synechocystis"
   },
   {
@@ -10141,6 +10886,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Mux CH0"
   },
   {
@@ -10150,6 +10896,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"P2 ogr inducing PF promoter"
   },
   {
@@ -10159,6 +10906,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Mux CH1"
   },
   {
@@ -10168,6 +10916,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"P2 ogr inducing PO promoter"
   },
   {
@@ -10177,6 +10926,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"pcyA protein generator and Pomp"
   },
   {
@@ -10186,6 +10936,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"P2 ogr inducing PP promoter"
   },
   {
@@ -10195,6 +10946,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Lysis gene (promotes lysis in colicin-producing bacteria strain)"
   },
   {
@@ -10204,6 +10956,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"PSP3 pag inducing PP promoter"
   },
   {
@@ -10213,6 +10966,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LsrA promoter (indirectly activated by AI-2)"
   },
   {
@@ -10222,6 +10976,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"PSP3 pag inducing PLL promoter"
   },
   {
@@ -10231,6 +10986,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pLsrA-YFP"
   },
   {
@@ -10240,6 +10996,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"phiR73 delta inducing PP promoter"
   },
   {
@@ -10249,6 +11006,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"crtB coding sequence encoding phytoene synthase"
   },
   {
@@ -10258,6 +11016,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"phiR73 delta inducing Psid promoter"
   },
   {
@@ -10267,6 +11026,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+crtB (phytoene synthase)"
   },
   {
@@ -10276,6 +11036,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"phiR73 delta inducing PLL promoter"
   },
   {
@@ -10285,6 +11046,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RBS B0031 w/ YFP (-LVA) TT"
   },
   {
@@ -10292,9 +11054,12 @@
     "Well":" 19B",
     "Part":"BBa_I11031",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"excisionase from E. coli phage P22 (removes prophage from host genome)"
   },
   {
@@ -10304,6 +11069,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Tet with CFP reporter (without LVA tag)"
   },
   {
@@ -10311,9 +11077,12 @@
     "Well":" 19D",
     "Part":"BBa_E2050",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Box 5",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"derivative of mRFP1  yeast-optimized"
   },
   {
@@ -10323,6 +11092,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0078"
   },
   {
@@ -10330,9 +11100,12 @@
     "Well":" 19F",
     "Part":"BBa_M0100",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry Update -> Jen-Box 2",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"tRNA_Arg5 to use as transcriptional reporter"
   },
   {
@@ -10342,6 +11115,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RhlR Protein Generator"
   },
   {
@@ -10371,6 +11145,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"IPTG inducible promoter with RBS"
   },
   {
@@ -10380,6 +11155,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"EYFP (RBS+ LVA- TERM) (B0034.E0030.B0015)"
   },
   {
@@ -10389,6 +11165,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"E1010.B0015"
   },
   {
@@ -10398,6 +11175,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Standard (lambda cI regulated)<br>"
   },
   {
@@ -10405,9 +11183,12 @@
     "Well":" 19N",
     "Part":"BBa_K082003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"GFP(+LVA)"
   },
   {
@@ -10417,6 +11198,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Pbad promoter"
   },
   {
@@ -10424,9 +11206,12 @@
     "Well":" 19P",
     "Part":"BBa_K082006",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LuxR-G2F"
   },
   {
@@ -10436,6 +11221,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+appY (encoding a DNA-binding transcriptional activator)"
   },
   {
@@ -10445,6 +11231,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"AIP generator + outer membrane permeability"
   },
   {
@@ -10454,6 +11241,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PcstA (glucose-repressible promoter)"
   },
   {
@@ -10463,6 +11251,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 13",
+    "Source":" ",
     "Description":"I722005:A340620"
   },
   {
@@ -10472,6 +11261,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"glgC coding sequence encoding ADP-glucose pyrophosphorylase"
   },
   {
@@ -10481,6 +11271,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 15",
+    "Source":" ",
     "Description":"Tc sensor and cl lambda generator (Tet promoter) "
   },
   {
@@ -10490,6 +11281,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"glgC16 (glgC with G336D substitution)"
   },
   {
@@ -10499,6 +11291,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"[TetR][rbs][LuxR][dblTerm][LuxPR]+[rbs][LacI][dblTerm]  "
   },
   {
@@ -10508,6 +11301,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"PcstA+rbs+xylE"
   },
   {
@@ -10517,6 +11311,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"TetR promoted AHL sensor and LacI producer"
   },
   {
@@ -10526,6 +11321,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"PcstA + lacZ"
   },
   {
@@ -10535,6 +11331,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"alcohol acetyltransferase I; converts isoamyl alcohol to isoamyl acetate (banana odor)"
   },
   {
@@ -10544,6 +11341,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Protein_Domain",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"B domain of Staphylococcal protein A"
   },
   {
@@ -10553,6 +11351,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"polycistronic ECFP+EYFP under B0031"
   },
   {
@@ -10562,6 +11361,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"lacI regulated GFP generator"
   },
   {
@@ -10571,6 +11371,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 12",
+    "Source":" ",
     "Description":"Two promoter screening plasmid v1.0"
   },
   {
@@ -10580,6 +11381,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS.1 (strong) -- modified from R. Weiss"
   },
   {
@@ -10589,6 +11391,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"luxI protein generator - PoPS->luxI"
   },
   {
@@ -10598,6 +11401,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Reverse RBS (RBS<sub>rev</sub>)  -- corresponds to BBa_B0030"
   },
   {
@@ -10607,6 +11411,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"luxR protein generator under Plambda regulation"
   },
   {
@@ -10616,6 +11421,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Tag",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"SV40 nuclear localization sequence from SV40; yeast codon optimized"
   },
   {
@@ -10625,6 +11431,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"5� Integration Sequence for the amyE locus of B. subtilis"
   },
   {
@@ -10634,6 +11441,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034:C0040"
   },
   {
@@ -10643,6 +11451,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"TEF2 yeast constitutive promoter"
   },
   {
@@ -10652,6 +11461,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"RBS + LacI"
   },
   {
@@ -10661,6 +11471,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Lac repressible lasI generator (No LVA )"
   },
   {
@@ -10670,6 +11481,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"Constitutive luxR device with pLuxR"
   },
   {
@@ -10679,6 +11491,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"GFP protein generator - PoPS->GFP"
   },
   {
@@ -10688,6 +11501,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"promoter C and arabinose C operon"
   },
   {
@@ -10697,6 +11511,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"RFP protein generator - PoPS->RFP"
   },
   {
@@ -10706,6 +11521,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Conjugation",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"OriT-R (Origin of transfer for the R-plasmid nic region)"
   },
   {
@@ -10715,6 +11531,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"lasI protein generator - PoPS->lasI"
   },
   {
@@ -10724,6 +11541,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"cI promoter with GFP reporter"
   },
   {
@@ -10733,6 +11551,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"Two promoter screening plasmid v1.1"
   },
   {
@@ -10742,6 +11561,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Coding SSM device: GFP with (AGTC)10 after start codon"
   },
   {
@@ -10751,6 +11571,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"Screening Plasmid 2.5"
   },
   {
@@ -10760,6 +11581,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Regulatory SSM device: Promoter with (TA)10 repeat expressing GFP"
   },
   {
@@ -10769,6 +11591,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"Two promoter screening plasmid v1.2"
   },
   {
@@ -10778,6 +11601,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Regulatory SSM device: Promoter with (TA)9 repeat expressing GFP"
   },
   {
@@ -10787,6 +11611,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"Intermediate in two promoter screening plasmid"
   },
   {
@@ -10796,6 +11621,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Protein_Domain",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI - repressor from E.coli phage lambda"
   },
   {
@@ -10805,6 +11631,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"GFP Producer Controlled by 3OC6HSL Receiver Device"
   },
   {
@@ -10814,6 +11641,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lex A - operator"
   },
   {
@@ -10823,6 +11651,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"Intermediate in two promoter screening plasmid"
   },
   {
@@ -10832,6 +11661,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Gal4 - operator"
   },
   {
@@ -10841,6 +11671,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"[aTc] -> [LRLb]"
   },
   {
@@ -10850,6 +11681,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pLac + RBS + LuxI + T"
   },
   {
@@ -10859,6 +11691,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"[aTC] -> RFP"
   },
   {
@@ -10868,6 +11701,7 @@
     "Plasmid":" pSB1C3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"BglII + BamHI"
   },
   {
@@ -10877,6 +11711,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"pcyA protein generator - PoPS->pcyA"
   },
   {
@@ -10886,6 +11721,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LRLa"
   },
   {
@@ -10895,6 +11731,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Constitutive pabA expression construct"
   },
   {
@@ -10904,6 +11741,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Amino Portion of RFP"
   },
   {
@@ -10913,6 +11751,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ECFP (RBS+ LVA- TERM) (B0034.E0020.B0015)"
   },
   {
@@ -10922,6 +11761,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"P2 promoter in agr operon from S. aureus"
   },
   {
@@ -10931,6 +11771,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0050"
   },
   {
@@ -10940,6 +11781,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"crRNA-lock3-var1  (A new "
   },
   {
@@ -10949,6 +11791,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0051"
   },
   {
@@ -10958,6 +11801,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"promoter lambda (cI regulated) with RFP reporter "
   },
   {
@@ -10967,6 +11811,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0052"
   },
   {
@@ -10974,9 +11819,12 @@
     "Well":" 23O",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -10984,9 +11832,12 @@
     "Well":" 23P",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -10996,6 +11847,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pTet + RBS + LuxR + T"
   },
   {
@@ -11005,6 +11857,7 @@
     "Plasmid":" pSB1C3",
     "Type":" T7",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T7rnap (T7 RNA Polymerase) - ATG Start Codon"
   },
   {
@@ -11014,6 +11867,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 7",
+    "Source":" ",
     "Description":"GFP fimE switch with 250 bp tetR promoter "
   },
   {
@@ -11023,6 +11877,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"S0103:J06602"
   },
   {
@@ -11032,6 +11887,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from phage HK022  (+LVA?)"
   },
   {
@@ -11041,6 +11897,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"S0100:J06602"
   },
   {
@@ -11050,6 +11907,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"GFP reporter protein under the control of the J23100 constitutive promoter and LexA 2 operator"
   },
   {
@@ -11059,6 +11917,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"pBAD to tetR coding region  lacI coding region  and mCherry reporter"
   },
   {
@@ -11068,6 +11927,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"lacI controlled by key/lock"
   },
   {
@@ -11077,6 +11937,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"PoPS-> lacI and mCherry"
   },
   {
@@ -11086,6 +11947,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"cI and lasR protein generator (TERM-)"
   },
   {
@@ -11095,6 +11957,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 9",
+    "Source":" ",
     "Description":"Construction intermediate: Lambda cI QPI with EYFP (Q04510.E0430)"
   },
   {
@@ -11102,9 +11965,12 @@
     "Well":" 24O",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -11112,9 +11978,12 @@
     "Well":" 24P",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device"
   },
   {
@@ -11124,6 +11993,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"I746101 (AIP sensor infrastructure) + I746105 (Inducible P2 + GFP reporter)",
     "FIELD18":""
   },
@@ -11134,6 +12004,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"LuxICDABEG (+/-)",
     "FIELD18":""
   },
@@ -11144,6 +12015,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T7 RNA polymerase",
     "FIELD18":""
   },
@@ -11154,6 +12026,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"double terminator (B0012-B0011)  reversed",
     "FIELD18":""
   },
@@ -11164,6 +12037,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T7 RNA Polymerase with UmuD derived tag",
     "FIELD18":""
   },
@@ -11174,6 +12048,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"double terminator (B0015)  reversed",
     "FIELD18":""
   },
@@ -11184,6 +12059,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"luxI generator controlled by key/lock",
     "FIELD18":""
   },
@@ -11194,6 +12070,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS.2 (weak) -- derivative of BBa_0030",
     "FIELD18":""
   },
@@ -11204,6 +12081,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"GFP-LVA under TetR control",
     "FIELD18":""
   },
@@ -11214,6 +12092,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS.3 (medium) -- derivative of BBa_0030",
     "FIELD18":""
   },
@@ -11224,6 +12103,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"GFP regulated by tetracyclin",
     "FIELD18":""
   },
@@ -11234,6 +12114,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS.4 (weaker) -- derivative of BBa_0030",
     "FIELD18":""
   },
@@ -11244,6 +12125,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dxs coding sequence encoding 1-deoxyxylulose-5-phosphate synthase",
     "FIELD18":""
   },
@@ -11254,6 +12136,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RBS (Elowitz 1999) -- defines RBS efficiency",
     "FIELD18":""
   },
@@ -11264,6 +12147,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+dxs (1-deoxyxylulose-5-phosphate synthase)",
     "FIELD18":""
   },
@@ -11274,6 +12158,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"lacI repressor  from E. coli (+LVA)",
     "FIELD18":""
   },
@@ -11293,6 +12178,8 @@
     "Well":" 2B",
     "Part":"BBa_J04450",
     "Plasmid":" BBa_J63009",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11316,6 +12203,8 @@
     "Well":" 2D",
     "Part":"BBa_J04450",
     "Plasmid":" BBa_J63010",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11339,6 +12228,8 @@
     "Well":" 2F",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1A10",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11362,6 +12253,8 @@
     "Well":" 2H",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1A3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11385,6 +12278,8 @@
     "Well":" 2J",
     "Part":"BBa_J04450",
     "Plasmid":" pSB4A5",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11408,6 +12303,8 @@
     "Well":" 2L",
     "Part":"BBa_J04450",
     "Plasmid":" pSB6A1",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11420,6 +12317,8 @@
     "Well":" 2M",
     "Part":"BBa_K592101",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Sequence verified before cloning into pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
@@ -11445,6 +12344,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"rbs+crtI (phytoene dehydrogenase)",
     "FIELD18":""
   },
@@ -11455,6 +12355,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"tetracycline repressor from transposon Tn10 (+LVA)",
     "FIELD18":""
   },
@@ -11465,6 +12366,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Plac+rbs+glgC (ADP-glucose pyrophosphorylase)",
     "FIELD18":""
   },
@@ -11475,6 +12377,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from phage HK022  (+LVA?)",
     "FIELD18":""
   },
@@ -11485,6 +12388,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"dxs+LIMS1+appY",
     "FIELD18":""
   },
@@ -11495,6 +12399,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from E. coli phage lambda (+LVA) ",
     "FIELD18":""
   },
@@ -11505,6 +12410,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"beta-glucosidase gene bglX (chu_2268) from Cytophaga hutchinsonii",
     "FIELD18":""
   },
@@ -11515,6 +12421,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from phage  434 (+LVA)",
     "FIELD18":""
   },
@@ -11523,9 +12430,12 @@
     "Well":" 3I",
     "Part":"BBa_I742111",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1011",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Limonene synthase gene with ribosome binding site",
     "FIELD18":""
   },
@@ -11536,6 +12446,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"c2  repressor from Salmonella phage P22  (+LVA)",
     "FIELD18":""
   },
@@ -11546,6 +12457,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"P2 ogr inducing PLL promoter",
     "FIELD18":""
   },
@@ -11556,6 +12468,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer inactivation enzyme from Bacillus; hydrolyzes acetyl homoserine lactone",
     "FIELD18":""
   },
@@ -11566,6 +12479,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"PSP3 pag inducing PO promoter",
     "FIELD18":""
   },
@@ -11576,6 +12490,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer synthetase for AHL",
     "FIELD18":""
   },
@@ -11586,6 +12501,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 11",
+    "Source":" ",
     "Description":"phiR73 delta inducing PO promoter",
     "FIELD18":""
   },
@@ -11596,6 +12512,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"luxR repressor/activator   (no LVA?)",
     "FIELD18":""
   },
@@ -11615,6 +12532,8 @@
     "Well":" 4B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11638,6 +12557,8 @@
     "Well":" 4D",
     "Part":"BBa_J04450",
     "Plasmid":" pSB3C5",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11661,6 +12582,8 @@
     "Well":" 4F",
     "Part":"BBa_J04450",
     "Plasmid":" pSB4C5",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11730,6 +12653,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"AHL receiver + GFP",
     "FIELD18":""
   },
@@ -11740,6 +12664,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"engineered cyan fluorescent protein derived from A. victoria GFP ",
     "FIELD18":""
   },
@@ -11750,6 +12675,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"superfolder GFP driven by pBAD promoter",
     "FIELD18":""
   },
@@ -11760,6 +12686,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" enhanced cyan fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -11770,6 +12697,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 10",
+    "Source":" ",
     "Description":"AHL inducible production of hydrogen peroxide",
     "FIELD18":""
   },
@@ -11780,6 +12708,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -11790,6 +12719,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 15",
+    "Source":" ",
     "Description":"AHL receiver + tet inverter + GFP",
     "FIELD18":""
   },
@@ -11800,6 +12730,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (lacI regulated  lambda pL hybrid)",
     "FIELD18":""
   },
@@ -11810,6 +12741,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Banana odor enzyme (ATF1) generator",
     "FIELD18":""
   },
@@ -11820,6 +12752,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"TetR repressible promoter",
     "FIELD18":""
   },
@@ -11830,6 +12763,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"Lac+RBS+KaiA+Lac+RBS+KaiC",
     "FIELD18":""
   },
@@ -11840,6 +12774,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"promoter (lambda cI regulated)",
     "FIELD18":""
   },
@@ -11850,6 +12785,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"I746100 (AIP sensor infrastructure - agrC + agrA with RBSes) + B0015 (Terminator)",
     "FIELD18":""
   },
@@ -11860,6 +12796,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (p22 cII regulated)",
     "FIELD18":""
   },
@@ -11870,6 +12807,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Measurement",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Promoter O_H Test I0500.E0420",
     "FIELD18":""
   },
@@ -11880,6 +12818,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (luxR & HSL regulated -- lux pR)",
     "FIELD18":""
   },
@@ -11899,6 +12838,8 @@
     "Well":" 6B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1K3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11922,6 +12863,8 @@
     "Well":" 6D",
     "Part":"BBa_J04450",
     "Plasmid":" pSB2K3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11945,6 +12888,8 @@
     "Well":" 6F",
     "Part":"BBa_J04450",
     "Plasmid":" pSB3K3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11968,6 +12913,8 @@
     "Well":" 6H",
     "Part":"BBa_J04450",
     "Plasmid":" pSB4K5",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
@@ -11993,6 +12940,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"fwYellow  yellow chromoprotein",
     "FIELD18":""
   },
@@ -12003,6 +12951,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"amajLime  yellow-green chromoprotein",
     "FIELD18":""
   },
@@ -12022,6 +12971,8 @@
     "Well":" 7A",
     "Part":"BBa_J52011",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Registry 2006 -> 2006 Source Plate 2",
     "Type":" Coding",
     "Subparts":" 1",
@@ -12036,6 +12987,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (luxR & HSL regulated -- lux pL)<br>",
     "FIELD18":""
   },
@@ -12046,6 +12998,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"J54140 delPr",
     "FIELD18":""
   },
@@ -12056,6 +13009,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (lambda cI and luxR regulated -- hybrid)",
     "FIELD18":""
   },
@@ -12066,6 +13020,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis2-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12076,6 +13031,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Standard (lambda cI regulated)<br>",
     "FIELD18":""
   },
@@ -12086,6 +13042,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis4-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12096,6 +13053,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter  Standard (luxR and HSL regulated -- lux pR)<br>",
     "FIELD18":""
   },
@@ -12106,6 +13064,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis5-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12116,6 +13075,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"EYFP (RBS+ LVA- TERM) (B0034.E0030.B0015)",
     "FIELD18":""
   },
@@ -12126,6 +13086,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis6-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12136,6 +13097,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ECFP (RBS+ LVA- TERM) (B0034.E0020.B0015)",
     "FIELD18":""
   },
@@ -12146,6 +13108,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis7-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12156,6 +13119,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"ECFP (RBS+ LVA+ TERM) (B0034.E0022.B0015)",
     "FIELD18":""
   },
@@ -12166,6 +13130,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis8-repressed  tet-regulated YFP",
     "FIELD18":""
   },
@@ -12176,6 +13141,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"luxR Protein Generator",
     "FIELD18":""
   },
@@ -12186,6 +13152,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"KRAB",
     "FIELD18":""
   },
@@ -12194,9 +13161,12 @@
     "Well":" 8B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1T3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -12207,6 +13177,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"G9a",
     "FIELD18":""
   },
@@ -12215,9 +13186,12 @@
     "Well":" 8D",
     "Part":"BBa_J04450",
     "Plasmid":" pSB3T5",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -12228,6 +13202,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PhyB",
     "FIELD18":""
   },
@@ -12238,6 +13213,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"PIF6",
     "FIELD18":""
   },
@@ -12248,6 +13224,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"UVR8",
     "FIELD18":""
   },
@@ -12258,6 +13235,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"COP1",
     "FIELD18":""
   },
@@ -12268,6 +13246,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Signalling",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"NLS",
     "FIELD18":""
   },
@@ -12278,6 +13257,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"SV40 promoter",
     "FIELD18":""
   },
@@ -12288,6 +13268,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"tet-regulated YFP (Weak tetR promoter)",
     "FIELD18":""
   },
@@ -12298,6 +13279,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0053",
     "FIELD18":""
   },
@@ -12308,6 +13290,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"tet-regulated Q (Weak tetR promoter)",
     "FIELD18":""
   },
@@ -12318,6 +13301,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cI (lambda)   [S0165]",
     "FIELD18":""
   },
@@ -12328,6 +13312,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Project",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"cis3-repressed  tet-regulated Q",
     "FIELD18":""
   },
@@ -12338,6 +13323,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cI (434)   [S0166]",
     "FIELD18":""
   },
@@ -12348,6 +13334,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"J540140dPr+hybrid promoter(plux-lac)",
     "FIELD18":""
   },
@@ -12358,6 +13345,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> cII (p22)   [S0167]",
     "FIELD18":""
   },
@@ -12368,6 +13356,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"J54140dP + hybrid promoter (lux-cI)",
     "FIELD18":""
   },
@@ -12378,6 +13367,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> TetR  [S0151]",
     "FIELD18":""
   },
@@ -12386,9 +13376,12 @@
     "Well":" 9K",
     "Part":"BBa_P0312",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MIT Distribution 4.04 -> BioBricks 2",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PoPS -> LacI   [S0156]",
     "FIELD18":""
   },
@@ -12399,6 +13392,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (cinR and HSL regulated  RBS+)",
     "FIELD18":""
   },
@@ -12407,6 +13401,8 @@
     "Well":" 9M",
     "Part":"BBa_J52038",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12427,6 +13423,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (PenI regulated)",
     "FIELD18":""
   },
@@ -12435,6 +13432,8 @@
     "Well":" 9O",
     "Part":"BBa_J52029",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12455,6 +13454,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Intermediate",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"--Specify Parts List--",
     "FIELD18":""
   },
@@ -12465,6 +13465,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"BGH terminator",
     "FIELD18":""
   },
@@ -12473,9 +13474,12 @@
     "Well":" 10B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1AC3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -12486,6 +13490,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"BGH terminator",
     "FIELD18":""
   },
@@ -12496,6 +13501,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"AGS Linker",
     "FIELD18":""
   },
@@ -12506,6 +13512,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Tag",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"HA tag",
     "FIELD18":""
   },
@@ -12516,6 +13523,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dCas RNA plasmid: ",
     "FIELD18":""
   },
@@ -12526,6 +13534,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNAimer to EMX1",
     "FIELD18":""
   },
@@ -12536,6 +13545,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNAimer to target VEGF1",
     "FIELD18":""
   },
@@ -12546,6 +13556,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNaimer to target VEGF2",
     "FIELD18":""
   },
@@ -12554,6 +13565,8 @@
     "Well":" 11A",
     "Part":"BBa_J52014",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12574,6 +13587,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (LasR & PAI regulated)",
     "FIELD18":""
   },
@@ -12582,6 +13596,8 @@
     "Well":" 11C",
     "Part":"BBa_J52039",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12602,6 +13618,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (RhlR & C4-HSL regulated)",
     "FIELD18":""
   },
@@ -12610,6 +13627,8 @@
     "Well":" 11E",
     "Part":"BBa_J52022",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12630,6 +13649,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (AraC regulated)",
     "FIELD18":""
   },
@@ -12638,6 +13658,8 @@
     "Well":" 11G",
     "Part":"BBa_J52040",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"",
     "Type":" AmpRKanR\"\"",
     "Subparts":" Composite",
@@ -12658,6 +13680,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Signalling",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"3OC<sub>6</sub>HSL Receiver Device",
     "FIELD18":""
   },
@@ -12668,6 +13691,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Banana odor enzyme (ATF1) generator",
     "FIELD18":""
   },
@@ -12678,6 +13702,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Tet operator with CFP reporter (with LVA tag) [R/Tc+]",
     "FIELD18":""
   },
@@ -12688,6 +13713,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PchA & PchB enzyme generator",
     "FIELD18":""
   },
@@ -12698,6 +13724,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"GFP reporter for RHS of library test constructs",
     "FIELD18":""
   },
@@ -12708,6 +13735,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 12",
+    "Source":" ",
     "Description":"B0015 J09855 I732835",
     "FIELD18":""
   },
@@ -12718,6 +13746,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"GFP generator",
     "FIELD18":""
   },
@@ -12728,6 +13757,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"FepA L8T Mutant - Large Diffusion pore for E. coli outer membrane.",
     "FIELD18":""
   },
@@ -12738,6 +13768,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"GFP generator",
     "FIELD18":""
   },
@@ -12748,6 +13779,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNAimer to target VEGF3",
     "FIELD18":""
   },
@@ -12756,9 +13788,12 @@
     "Well":" 12B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1AK3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -12769,6 +13804,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNAimer to target VEGF4",
     "FIELD18":""
   },
@@ -12777,9 +13813,12 @@
     "Well":" 12D",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1AK8",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -12790,6 +13829,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNAimer to Bla Target 2",
     "FIELD18":""
   },
@@ -12800,6 +13840,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNaimer to Bla Target 3",
     "FIELD18":""
   },
@@ -12810,6 +13851,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"uniCAS RNaimer to Bla Target 4",
     "FIELD18":""
   },
@@ -12820,6 +13862,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Device",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"uniCAS RNAimer multiple targets to VEGF 2 and VEGF 3",
     "FIELD18":""
   },
@@ -12830,6 +13873,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"Hybrid promoter phaCAB",
     "FIELD18":""
   },
@@ -12840,6 +13884,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" apoptin",
     "FIELD18":""
   },
@@ -12850,6 +13895,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"CMVp - myri - TEVP - GFP",
     "FIELD18":""
   },
@@ -12860,6 +13906,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Signalling",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RhlR Protein Generator",
     "FIELD18":""
   },
@@ -12870,6 +13917,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 3",
+    "Source":" ",
     "Description":"CMV - CD4(shortened) - Cub - GFP",
     "FIELD18":""
   },
@@ -12880,6 +13928,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"AHL-making Enzyme  luxI (+RBS)",
     "FIELD18":""
   },
@@ -12890,6 +13939,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"tet-regulated cro (Weak tetR promoter)",
     "FIELD18":""
   },
@@ -12900,6 +13950,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Intermediate",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0034.C0078",
     "FIELD18":""
   },
@@ -12910,6 +13961,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Intermediate",
     "Subparts":" 8",
+    "Source":" ",
     "Description":"tet-regulated cro (Strong tetR promoter)",
     "FIELD18":""
   },
@@ -12920,6 +13972,7 @@
     "Plasmid":" pSB1A3",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"green fluorescent protein derived from jellyfish Aequeora victoria wild-type GFP (SwissProt: P42212)",
     "FIELD18":""
   },
@@ -12930,6 +13983,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"pbad promoter driving 6-his tagged mut3 GFP",
     "FIELD18":""
   },
@@ -12940,6 +13994,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -12950,6 +14005,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Generator",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"PchA & PchB enzyme generator",
     "FIELD18":""
   },
@@ -12960,6 +14016,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" green fluorescent protein derived from jellyfish Aequeora victoria wild-type GFP (SwissProt: P42212",
     "FIELD18":""
   },
@@ -12970,6 +14027,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"CMV - mCer",
     "FIELD18":""
   },
@@ -12980,6 +14038,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":" enhanced cyan fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -12990,6 +14049,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Regulatory",
     "Subparts":" 6",
+    "Source":" ",
     "Description":"cinr+cinl (RBS) with double terminator",
     "FIELD18":""
   },
@@ -13000,6 +14060,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced cyan fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -13010,6 +14071,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RIP 3",
     "FIELD18":""
   },
@@ -13018,9 +14080,12 @@
     "Well":" 14B",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1AT3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -13031,6 +14096,7 @@
     "Plasmid":" pSB1C3",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -13041,6 +14107,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (ROSE)",
     "FIELD18":""
   },
@@ -13051,6 +14118,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"enhanced yellow fluorescent protein derived from A. victoria GFP",
     "FIELD18":""
   },
@@ -13061,6 +14129,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (FourU)",
     "FIELD18":""
   },
@@ -13071,6 +14140,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"autoinducer inactivation enzyme aiiA (no LVA)",
     "FIELD18":""
   },
@@ -13081,6 +14151,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (PrfA)",
     "FIELD18":""
   },
@@ -13091,6 +14162,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)",
     "FIELD18":""
   },
@@ -13101,6 +14173,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (ROSE 27�C)",
     "FIELD18":""
   },
@@ -13111,6 +14184,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (cinR and HSL regulated)",
     "FIELD18":""
   },
@@ -13121,6 +14195,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (ROSE 32�C)",
     "FIELD18":""
   },
@@ -13131,6 +14206,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Lac operator with CFP reporter (without LVA tag) [R/Lc-]",
     "FIELD18":""
   },
@@ -13141,6 +14217,7 @@
     "Plasmid":" pSB1C3",
     "Type":" RNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"RNA thermometer (ROSE hairpin 37�C)",
     "FIELD18":""
   },
@@ -13151,6 +14228,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)",
     "FIELD18":""
   },
@@ -13159,6 +14237,8 @@
     "Well":" 15M",
     "Part":"BBa_K747094",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -13173,6 +14253,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Promoter (OmpR  positive)",
     "FIELD18":""
   },
@@ -13181,6 +14262,8 @@
     "Well":" 15O",
     "Part":"BBa_K747095",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"A silent point mutation was inserted into the BsmBI restriction site in the chloramphenicol gene (G434C).",
     "Type":" Protein_Domain",
     "Subparts":" 1",
@@ -13206,6 +14289,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"double terminator (B0015)  reversed",
     "FIELD18":""
   },
@@ -13216,6 +14300,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Ribosome Binding Site Family Member",
     "FIELD18":""
   },
@@ -13226,6 +14311,7 @@
     "Plasmid":" pSB1A2",
     "Type":" RBS",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Ribosome Binding Site Family Member",
     "FIELD18":""
   },
@@ -13236,6 +14322,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Terminator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"T1 from E. coli rrnB",
     "FIELD18":""
   },
@@ -13244,9 +14331,12 @@
     "Well":" 16I",
     "Part":"BBa_I715023",
     "Plasmid":" pSB1A2",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1005",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Carboxyl portion of RFP",
     "FIELD18":""
   },
@@ -13257,6 +14347,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"GFP fusion brick",
     "FIELD18":""
   },
@@ -13265,9 +14356,12 @@
     "Well":" 16M",
     "Part":"BBa_K165005",
     "Plasmid":" BBa_J63009",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Venus YFP  yeast optimized for fusion",
     "FIELD18":""
   },
@@ -13278,6 +14372,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13288,6 +14383,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13298,6 +14394,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13308,6 +14405,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13318,6 +14416,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13328,6 +14427,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13338,6 +14438,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13346,9 +14447,12 @@
     "Well":" 17O",
     "Part":"BBa_J04450",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"RFP Coding Device",
     "FIELD18":""
   },
@@ -13359,6 +14463,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13367,9 +14472,12 @@
     "Well":" 18A",
     "Part":"BBa_I20260",
     "Plasmid":" pSB3K3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Spring 2008 -> Source Plate 1022",
     "Type":" Measurement",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Measurement Kit Test of J23101",
     "FIELD18":""
   },
@@ -13380,6 +14488,7 @@
     "Plasmid":" pSB3K3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"GFP generator",
     "FIELD18":""
   },
@@ -13390,6 +14499,7 @@
     "Plasmid":" pSB3K3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"GFP generator",
     "FIELD18":""
   },
@@ -13400,6 +14510,7 @@
     "Plasmid":" pSB3K3",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"GFP generator",
     "FIELD18":""
   },
@@ -13410,6 +14521,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member ",
     "FIELD18":""
   },
@@ -13420,6 +14532,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13430,6 +14543,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13440,6 +14554,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13450,6 +14565,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13460,6 +14576,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13470,6 +14587,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13480,6 +14598,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13490,6 +14609,7 @@
     "Plasmid":" pSB1AK3",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"dnMyD88-linker-GFP",
     "FIELD18":""
   },
@@ -13500,6 +14620,7 @@
     "Plasmid":" pSB1AK8",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Firefly luciferase - luciferase from Photinus pyralis",
     "FIELD18":""
   },
@@ -13510,6 +14631,7 @@
     "Plasmid":" BBa_J61002",
     "Type":" Regulatory",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"constitutive promoter family member",
     "FIELD18":""
   },
@@ -13520,6 +14642,7 @@
     "Plasmid":" pSB1A3",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Adds another BioBrick site",
     "FIELD18":""
   },
@@ -13530,6 +14653,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Composite",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Screening plasmid intermediate",
     "FIELD18":""
   },
@@ -13540,6 +14664,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"Screening plasmid intermediate",
     "FIELD18":""
   },
@@ -13550,6 +14675,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Screening plasmid intermediate",
     "FIELD18":""
   },
@@ -13560,6 +14686,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0032.ECFP",
     "FIELD18":""
   },
@@ -13570,6 +14697,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Translational_Unit",
     "Subparts":" 2",
+    "Source":" ",
     "Description":"B0032.EYFP",
     "FIELD18":""
   },
@@ -13580,6 +14708,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Composite",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"Screening plasmid intermediate",
     "FIELD18":""
   },
@@ -13590,6 +14719,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Coding",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"cI repressor from phage 434 (no LVA)",
     "FIELD18":""
   },
@@ -13600,6 +14730,7 @@
     "Plasmid":" pSB1A2",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"Spacer.1 (generic)",
     "FIELD18":""
   },
@@ -13610,6 +14741,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 5",
+    "Source":" ",
     "Description":"Tet with CFP reporter (without LVA tag)",
     "FIELD18":""
   },
@@ -13620,6 +14752,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RBS B0030 w/ YFP (-LVA) TT",
     "FIELD18":""
   },
@@ -13630,6 +14763,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"RBS B0031 w/ YFP (-LVA) TT",
     "FIELD18":""
   },
@@ -13640,6 +14774,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Reporter",
     "Subparts":" 4",
+    "Source":" ",
     "Description":"medium RBS  YFP (-LVA)  double terminator",
     "FIELD18":""
   },
@@ -13650,6 +14785,7 @@
     "Plasmid":" pSB1A2",
     "Type":" Generator",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"chloramphenicol resistance cassette",
     "FIELD18":""
   },
@@ -13660,6 +14796,7 @@
     "Plasmid":" pSB1A2",
     "Type":" DNA",
     "Subparts":" 1",
+    "Source":" ",
     "Description":"[R6K] Origin of replication",
     "FIELD18":""
   },
@@ -14419,6 +15556,8 @@
     "Well":" 5L",
     "Part":"BBa_K1365000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"NisA, placed in pSB1C3",
     "Type":" Coding",
     "Subparts":" 1",
@@ -14440,6 +15579,8 @@
     "Well":" 5N",
     "Part":"BBa_K1365020",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"sfGFP(Bs), placed in pSB1C3",
     "Type":" Reporter",
     "Subparts":" 1",
@@ -14601,6 +15742,8 @@
     "Well":" 6N",
     "Part":"BBa_K1356004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"norC",
     "Type":" Coding",
     "Subparts":" 1",
@@ -14672,6 +15815,8 @@
     "Well":" 7E",
     "Part":"BBa_K1316012",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"DNA - T7 lacO + mtrCAB - 5318bp",
     "Type":" Composite",
     "Subparts":" 1",
@@ -14693,6 +15838,8 @@
     "Well":" 7G",
     "Part":"BBa_K1316015",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"pRhamnose regulating csgB and csgA curli proteins - 1128bp",
     "Type":" Generator",
     "Subparts":" 1",
@@ -15604,6 +16751,8 @@
     "Well":" 13B",
     "Part":"BBa_K1325001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"mxiE",
     "Type":" Coding",
     "Subparts":" 1",
@@ -15625,6 +16774,8 @@
     "Well":" 13D",
     "Part":"BBa_K1325002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"sicA*",
     "Type":" Coding",
     "Subparts":" 1",
@@ -15646,6 +16797,8 @@
     "Well":" 13F",
     "Part":"BBa_K1325005",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MinC",
     "Type":" Coding",
     "Subparts":" 1",
@@ -15667,6 +16820,8 @@
     "Well":" 13H",
     "Part":"BBa_K1325007",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"MinE",
     "Type":" Coding",
     "Subparts":" 1",
@@ -15688,6 +16843,8 @@
     "Well":" 13J",
     "Part":"BBa_K1402008",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"no",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -15709,6 +16866,8 @@
     "Well":" 13L",
     "Part":"BBa_K1402010",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"no",
     "Type":" Regulatory",
     "Subparts":" 1",
@@ -16270,6 +17429,8 @@
     "Well":" 17D",
     "Part":"BBa_K1438001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Bacterioferritin M52H for deletion of heam group",
     "Type":" Coding",
     "Subparts":" 1",
@@ -16291,6 +17452,8 @@
     "Well":" 17F",
     "Part":"BBa_K1438002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Human Ferritin from iGEM Calgary",
     "Type":" Coding",
     "Subparts":" 1",
@@ -16302,6 +17465,8 @@
     "Well":" 17G",
     "Part":"BBa_K1352000",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Yes, we are sending a plasmid backbone; the part we are sending is on plasmid backbone pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
@@ -16323,6 +17488,8 @@
     "Well":" 17I",
     "Part":"BBa_K1352001",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Yes, we are sending a plasmid backbone;  the part we are sending is on plasmid backbone pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
@@ -16344,6 +17511,8 @@
     "Well":" 17K",
     "Part":"BBa_K1352002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Yes, we are sending a plasmid backbone;  the part we are sending is on plasmid backbone pSB1C3",
     "Type":" Composite",
     "Subparts":" 5",
@@ -16415,6 +17584,8 @@
     "Well":" 18B",
     "Part":"BBa_K1508002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"DNA concentration 137 ng/ul",
     "Type":" Coding",
     "Subparts":" 1",
@@ -16436,6 +17607,8 @@
     "Well":" 18D",
     "Part":"BBa_K1508003",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"DNA concentration 77 ng/ul",
     "Type":" Composite",
     "Subparts":" 3",
@@ -17117,6 +18290,8 @@
     "Well":" 22H",
     "Part":"BBa_K1505002",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Sequencing Results Pending",
     "Type":" Composite",
     "Subparts":" 1",
@@ -17218,6 +18393,8 @@
     "Well":" 23B",
     "Part":"BBa_K1442101",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"mRdRP",
     "Type":" Coding",
     "Subparts":" 1",
@@ -17239,6 +18416,8 @@
     "Well":" 23D",
     "Part":"BBa_K1442107",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"C2HP/RGE",
     "Type":" Coding",
     "Subparts":" 1",
@@ -17360,6 +18539,8 @@
     "Well":" 24D",
     "Part":"BBa_K1313004",
     "Plasmid":" pSB1C3",
+    "Resistance":" --",
+    "Well Status":" OK",
     "Comments":"Proved via digestion",
     "Type":" Coding",
     "Subparts":" 1",
