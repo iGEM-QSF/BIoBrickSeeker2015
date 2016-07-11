@@ -10542,11 +10542,11 @@
    "Part":" BBa_J04450",
    "Plasmid":" pSB1C3",
    "Well Status":" OK",
-   "Comments":" �",
+   "Comments":"",
    "Type":" Reporter",
    "Subparts":"5",
    "Source":" iGEM12_Freiburg",
-   "Sequencing":" Confirmed(A)"
+   "Sequencing":" Confirmed(A)",
    "Seq Comment":" ",
    "Short Description":" RFP Coding Device"
  },
@@ -10556,7 +10556,7 @@
    "Part":" BBa_J04450",
    "Plasmid":" pSB1C3",
    "Well Status":" OK",
-   "Comments":" �",
+   "Comments":"",
    "Type":" Reporter",
    "Subparts":"5",
    "Source":" iGEM12_Freiburg",
